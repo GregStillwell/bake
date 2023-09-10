@@ -1,0 +1,15 @@
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\bin\Debug\net6.0\bakery.exe
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\bin\Debug\net6.0\bakery.deps.json
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\bin\Debug\net6.0\bakery.runtimeconfig.json
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\bin\Debug\net6.0\bakery.dll
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\bin\Debug\net6.0\bakery.pdb
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.csproj.AssemblyReference.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.AssemblyInfoInputs.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.AssemblyInfo.cs
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.csproj.CoreCompileInputs.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.dll
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\refint\bakery.dll
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.pdb
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\bakery.genruntimeconfig.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery\obj\Debug\net6.0\ref\bakery.dll
