@@ -1,0 +1,5 @@
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery.tests\obj\Debug\net6.0\bakery.tests.csproj.AssemblyReference.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery.tests\obj\Debug\net6.0\bakery.tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery.tests\obj\Debug\net6.0\bakery.tests.AssemblyInfoInputs.cache
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery.tests\obj\Debug\net6.0\bakery.tests.AssemblyInfo.cs
+C:\Users\oakla\onedrive\desktop\school\projects\bakery.solution\bakery.tests\obj\Debug\net6.0\bakery.tests.csproj.CoreCompileInputs.cache
