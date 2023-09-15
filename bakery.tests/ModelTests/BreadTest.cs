@@ -26,6 +26,16 @@ namespace Bakery.Tests
       // Assert
       Assert.AreEqual(testPrice, testBreadCost);
     }
+
+    [TestMethod]
+    public void NonDiscountedBread_ReturnTotalCost()
+    {
+      Bread newBread = new Bread(2);
+      int testPrice = 10;
+      int testBreadCost = newBread.NonDiscountedBread();
+      Assert.AreEqual(testPrice, testBreadCost);
+
+    }
   }
 }
 

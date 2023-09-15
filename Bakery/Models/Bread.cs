@@ -20,5 +20,11 @@ namespace Bakery.Models
       TotalCost = totalCost;
       return totalCost;
     } 
+
+    public int NonDiscountedBread(){
+      int totalCost = (BreadQuantity * Cost);
+      TotalCost = totalCost;
+      return TotalCost;
+    }
   }
 }
