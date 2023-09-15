@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\bakery.tests.csproj": {}
+    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\bakery.tests.csproj": {
+    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\bakery.tests.csproj",
-        "projectName": "bakery.tests",
-        "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\bakery.tests.csproj",
+        "projectUniqueName": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj",
+        "projectName": "Bakery.Tests",
+        "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj",
         "packagesPath": "C:\\Users\\oakla\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\obj\\",
         "projectStyle": "PackageReference",
@@ -25,7 +25,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\Bakery.csproj": {
+                "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\Bakery.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -51,6 +55,59 @@
               "version": "[17.3.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\Bakery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\Bakery.csproj",
+        "projectName": "Bakery",
+        "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\Bakery.csproj",
+        "packagesPath": "C:\\Users\\oakla\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\oakla\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
