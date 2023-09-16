@@ -28,7 +28,7 @@ namespace Bakery.Tests
     }
 
     [TestMethod]
-    public void NonDiscountedBread_ReturnTotalCost()
+    public void NonDiscountedBread_ReturnTotalCost_Int()
     {
       Bread newBread = new Bread(2);
       int testPrice = 10;
