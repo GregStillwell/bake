@@ -13,10 +13,16 @@ namespace Bakery.Models
       PastryQuantity= quantity;
       Cost = 2;
     }
-    public int GetPasteryOrderCost(){
+    public int GetPasteryOrderCost()
+    {
       int discount = PastryQuantity / 4;
-      int TotalCost = (PastryQuantity - discount) * Cost;
-      TotalCost = totalCost
+      int totalCost = (PastryQuantity - discount) * Cost;
+      TotalCost = totalCost;
+      return totalCost;
+    }
+    public int NonDiscountedPastry(){
+      int totalCost = (PastryQuantity * Cost);
+      TotalCost = totalCost;
       return TotalCost;
     }
   }
