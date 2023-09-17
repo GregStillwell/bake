@@ -38,7 +38,3 @@ namespace Bakery.Tests
     }
   }
 }
-
-// 1 test for the constructor --done
-// 1 test bread/pastry with discount --done
-// 1 test bread/pastry no discount
