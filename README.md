@@ -21,7 +21,7 @@ Bakery is a Console app where you can selected the amount of pasties and Bread w
 
   (2) Navigate into the directory called Bakery
 
-  (3) Type Dotnet run to open the bakery, then select the amount of pastries and bread that you want.
+  (3) Type Dotnet run to open the bakery, then select the amount of pastries and bread that you want and it will return a price.
 
 
 
