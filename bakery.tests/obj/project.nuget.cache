@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UPgZrVt9EI/HPa/BhlXf7JRTqeUwvDsCxifxpzKEVgN/ZdkfdTvyqsxY9R2OPOGGF4DfulSKAQG1BVwtDxpwpQ==",
+  "dgSpecHash": "0bPW83XAMtIDNb2uYTI/JJIHfBMTiWwgz5YsLTudTnNEf0+uSvvt8DPVV1ottXB4sjfBvR3Yad1I+X5ZPI5b0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\Bakery.Tests.csproj",
+  "projectFilePath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oakla\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\oakla\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

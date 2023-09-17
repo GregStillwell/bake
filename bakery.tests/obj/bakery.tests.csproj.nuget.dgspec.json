@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\Bakery.Tests.csproj": {}
+    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\Bakery.Tests.csproj": {
+    "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\Bakery.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj",
         "projectName": "Bakery.Tests",
-        "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\Bakery.Tests.csproj",
+        "projectPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\Bakery.Tests.csproj",
         "packagesPath": "C:\\Users\\oakla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\Bakery.tests\\obj\\",
+        "outputPath": "C:\\Users\\oakla\\onedrive\\desktop\\school\\projects\\bakery.solution\\bakery.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oakla\\AppData\\Roaming\\NuGet\\NuGet.Config"
